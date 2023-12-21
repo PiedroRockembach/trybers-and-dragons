@@ -1,6 +1,6 @@
 # Trybers and Dragons
 
-Sistema de criação de classes e combate para um universo de D&D
+Sistema de criação de classes e combate para o universo de D&D
 
 ## Índice
 
