@@ -19,8 +19,7 @@ Projeto que tem como objetivo aplicar os conceitos de abstração, encapsulament
 
 ## Instalação
 
-Instruções sobre como instalar e configurar o projeto. Exemplo:
-
+Instale as dependências do projeto
 ```bash
 npm install
 ```
